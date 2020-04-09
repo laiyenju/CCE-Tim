@@ -12,6 +12,7 @@ Come learn together 👉 [CREATIVE CODING ESSENTIALS](https://timrodenbroeker.de
 ## We can find Tim Rodenbröker here
 
 - [Twitter](https://twitter.com/timrodenbroeker)
-- [YouTube](https://www.youtube.com/channel/UCPwg5nDMQWzkAfb56_GvGpA)
+- [Instagram](https://www.instagram.com/tim_rodenbroeker/)
+- [YouTube](https://www.youtube.com/channel/UCPwg5nDMQWzkAfb56_GvGpA) 👈 a lot of tutorial videos here
 - [Patreon](https://www.patreon.com/timrodenbroeker)
 - [his personal website](https://timrodenbroeker.de/)
