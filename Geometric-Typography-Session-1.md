@@ -1,7 +1,8 @@
 # Geometric Typography Session 1
 
-### Chinese typography of sun
+## Chinese typography of sun
 
+![](https://i.imgur.com/UPegkis.png)
 
 ```python
 def setup():
