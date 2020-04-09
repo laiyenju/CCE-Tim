@@ -1,6 +1,6 @@
 # Geometric Typography Session 1
 
-### 1. Chinese typography of sun
+### Chinese typography of sun
 
 
 ```python
